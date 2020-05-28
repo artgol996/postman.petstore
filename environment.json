@@ -1,0 +1,39 @@
+{
+	"id": "cd557b5a-7251-48db-8720-0626b7d624aa",
+	"name": "petstore",
+	"values": [
+		{
+			"key": "pet.id",
+			"value": "5850",
+			"enabled": true
+		},
+		{
+			"key": "category.name",
+			"value": "dog",
+			"enabled": true
+		},
+		{
+			"key": "category.id",
+			"value": "58",
+			"enabled": true
+		},
+		{
+			"key": "pet.name",
+			"value": "angry",
+			"enabled": true
+		},
+		{
+			"key": "tags.name",
+			"value": "black",
+			"enabled": true
+		},
+		{
+			"key": "status",
+			"value": "available",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-05-28T14:42:15.923Z",
+	"_postman_exported_using": "Postman/7.25.0"
+}
